@@ -1,4 +1,4 @@
-# Evaluating a Use of Regression Machine Learning Models for Predicting Morning RMSSD
+# Evaluating a Use of Regression Machine Learning Models for Predicting Morning RMSSD (3D EMA)
 
 RMSSD (Root Mean Square of the Successive Differences) is a commonly used measure of heart rate variability (HRV), which refers to the variation in the time interval between consecutive heartbeats. RMSSD is often used as an indicator of vagal tone, which is a measure of the activity of the parasympathetic nervous system, which regulates the body's "rest and digest" functions. Higher HRV is generally associated with good physical and mental health, while lower HRV can indicate stress, fatigue, or other health problems.
 
